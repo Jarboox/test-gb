@@ -1,7 +1,10 @@
 
-Inside project run
-### `yarn install`
+Ejecutar en la termial
 
-and 
+### `yarn install` o `npm install`
 
-### `yarn start`
+y
+
+### `yarn start` o `npm start`
+
+Nota: se recomienda el uso de `yarn`
